@@ -1,0 +1,35 @@
+@g: 46.875rem;
+
+
+
+
+// 呼吸灯效果
+@keyframes bouncein {
+	0% {
+		transform: scale(0.95);
+	}
+	100% {
+		transform: scale(1.05);
+	}
+}
+.animate_bouncein() {
+	animation: bouncein 0.8s ease 0s infinite alternate;
+}
+// 半透明浮层
+.cover () {
+  position: fixed;
+	left: -1000/@g;
+	right: -1000/@g;
+	top: -1000/@g;
+	bottom: -1000/@g;
+	background-color: rgba(0,0,0,0.5);
+	z-index:99998
+}
+// 居中的弹窗
+.modal () {
+  position: fixed;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%, -50%);
+	z-index:99999
+}

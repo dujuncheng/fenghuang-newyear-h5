@@ -22,8 +22,8 @@ const createLintingRule = () => ({
 module.exports = {
   context: path.resolve(__dirname, '../'),
   entry: {
-    app: './src/main.js'
-  },
+    app: './src/main.js',
+},
   output: {
     path: config.build.assetsRoot,
     filename: '[name].js',
@@ -74,7 +74,19 @@ module.exports = {
           limit: 10000,
           name: utils.assetsPath('fonts/[name].[hash:7].[ext]')
         }
-      }
+      },
+	    {
+		    test: /\.less$/,
+		    use: [
+			    'style-loader',
+			    { loader: 'css-loader', options: { importLoaders: 1 } },
+			    'less-loader'
+		    ]
+	    },
+	    {
+		    test: require.resolve('zepto'),
+		    loader: 'exports-loader?window.Zepto!script-loader'
+	    }
     ]
   },
   node: {

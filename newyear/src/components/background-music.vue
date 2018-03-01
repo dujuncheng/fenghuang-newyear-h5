@@ -112,7 +112,7 @@
 	}
 </script>
 
-<style scoped>
+<style scoped lang="less">
 .audio-container {
     width: 100%;
     height: 100%;
