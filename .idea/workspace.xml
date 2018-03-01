@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" readonly="true" id="e871523b-bd64-4d16-b556-e1f8e5753565" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/newyear/build/webpack.base.conf.js" afterPath="$PROJECT_DIR$/newyear/build/webpack.base.conf.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/newyear/build/webpack.prod.conf.js" afterPath="$PROJECT_DIR$/newyear/build/webpack.prod.conf.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/newyear/config/index.js" afterPath="$PROJECT_DIR$/newyear/config/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/newyear/index.html" afterPath="$PROJECT_DIR$/newyear/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/newyear/src/App.vue" afterPath="$PROJECT_DIR$/newyear/src/App.vue" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/newyear/src/components/background-music.vue" afterPath="$PROJECT_DIR$/newyear/src/components/background-music.vue" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/newyear/src/config/cloumn-config.js" afterPath="$PROJECT_DIR$/newyear/src/config/cloumn-config.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/newyear/src/config/money-person.js" afterPath="$PROJECT_DIR$/newyear/src/config/money-person.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/newyear/src/config/preload-images.js" afterPath="$PROJECT_DIR$/newyear/src/config/preload-images.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/newyear/src/less/djc_prefer.less" afterPath="$PROJECT_DIR$/newyear/src/less/djc_prefer.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/newyear/src/utils/resLoader.js" afterPath="$PROJECT_DIR$/newyear/src/utils/resLoader.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -27,12 +16,34 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$USER_HOME$/Desktop/把dist目录下的内容上传即可 4/index.html">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="422">
+                <caret line="30" column="74" lean-forward="false" selection-start-line="30" selection-start-column="74" selection-end-line="30" selection-end-column="74" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="App.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/newyear/src/App.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="544" lean-forward="false" selection-start-line="0" selection-start-column="544" selection-end-line="0" selection-end-column="544" />
-              <folding />
+            <state relative-caret-position="900">
+              <caret line="481" column="13" lean-forward="false" selection-start-line="481" selection-start-column="6" selection-end-line="481" selection-end-column="13" />
+              <folding>
+                <element signature="e#4545#4567#0" expanded="true" />
+                <element signature="e#5866#7527#0" expanded="false" />
+                <element signature="e#11905#12091#0" expanded="false" />
+                <element signature="e#12927#12990#0" expanded="false" />
+                <element signature="e#13060#13121#0" expanded="false" />
+                <element signature="e#13893#14383#0" expanded="false" />
+                <element signature="e#15368#15588#0" expanded="false" />
+                <marker date="1518706273000" expanded="true" signature="30017:30018" ph="{...}" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -96,6 +107,7 @@
         <option value="$PROJECT_DIR$/newyear/src/config/cloumn-config.js" />
         <option value="$PROJECT_DIR$/newyear/src/App.vue" />
         <option value="$USER_HOME$/Desktop/把dist目录下的内容上传即可 4/index.html" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -159,8 +171,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -177,20 +187,7 @@
               <item name="fenghuang-newyear-h5" type="b2602c69:ProjectViewProjectNode" />
               <item name="fenghuang-newyear-h5" type="462c0819:PsiDirectoryNode" />
               <item name="newyear" type="462c0819:PsiDirectoryNode" />
-              <item name="dist" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="fenghuang-newyear-h5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fenghuang-newyear-h5" type="462c0819:PsiDirectoryNode" />
-              <item name="newyear" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="fenghuang-newyear-h5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fenghuang-newyear-h5" type="462c0819:PsiDirectoryNode" />
-              <item name="newyear" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="fenghuang-newyear-h5" type="b2602c69:ProjectViewProjectNode" />
@@ -202,6 +199,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -269,18 +268,19 @@
       <workItem from="1518602172168" duration="23019000" />
       <workItem from="1518655220867" duration="1134000" />
       <workItem from="1518668504796" duration="11513000" />
+      <workItem from="1519874614363" duration="1331000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="101063000" />
+    <option name="totallyTimeSpent" value="102394000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Key Promoter X" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19599427" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1988555" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -311,16 +311,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/newyear/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="640">
-          <caret line="40" column="21" lean-forward="false" selection-start-line="40" selection-start-column="21" selection-end-line="40" selection-end-column="21" />
-          <folding>
-            <marker date="1518662542000" expanded="true" signature="2170:2172" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/newyear/src/config/cloumn-config.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
@@ -333,7 +323,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="13" lean-forward="true" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -390,7 +379,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="208">
           <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -405,10 +393,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1328">
           <caret line="83" column="9" lean-forward="false" selection-start-line="83" selection-start-column="9" selection-end-line="83" selection-end-column="9" />
-          <folding>
-            <element signature="e#974#2259#0" expanded="false" />
-            <marker date="1518630557000" expanded="true" signature="1767:2138" ph="{&quot;loader&quot;: 'url-loader'...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -434,7 +418,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="13" lean-forward="true" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -498,10 +481,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1328">
           <caret line="83" column="9" lean-forward="false" selection-start-line="83" selection-start-column="9" selection-end-line="83" selection-end-column="9" />
-          <folding>
-            <element signature="e#974#2259#0" expanded="false" />
-            <marker date="1518630557000" expanded="true" signature="1767:2138" ph="{&quot;loader&quot;: 'url-loader'...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -544,7 +523,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="13" lean-forward="true" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -577,7 +555,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="15" column="27" lean-forward="false" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -631,7 +608,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -640,7 +616,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="224">
           <caret line="14" column="17" lean-forward="false" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -650,7 +625,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1904">
           <caret line="119" column="43" lean-forward="false" selection-start-line="119" selection-start-column="25" selection-end-line="119" selection-end-column="43" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -658,7 +632,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="15" column="11" lean-forward="false" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -666,10 +639,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="384">
           <caret line="24" column="25" lean-forward="false" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
-          <folding>
-            <element signature="e#974#2259#0" expanded="false" />
-            <marker date="1518630557000" expanded="true" signature="1767:2138" ph="{&quot;loader&quot;: 'url-loader'...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -677,7 +646,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1248">
           <caret line="78" column="14" lean-forward="false" selection-start-line="78" selection-start-column="14" selection-end-line="78" selection-end-column="14" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -691,30 +659,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Downloads/把dist目录下的内容上传即可/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/把dist目录下的内容上传即可 2/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="5" column="59" lean-forward="false" selection-start-line="5" selection-start-column="59" selection-end-line="5" selection-end-column="59" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/newyear/dist/成功的/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/Downloads/把dist目录下的内容上传即可/index.html" />
+    <entry file="file://$USER_HOME$/Desktop/把dist目录下的内容上传即可 2/index.html" />
+    <entry file="file://$PROJECT_DIR$/newyear/dist/成功的/index.html" />
     <entry file="file://$PROJECT_DIR$/newyear/src/config/preload-images.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="523">
@@ -723,14 +670,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/把dist目录下的内容上传即可 3/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="464">
-          <caret line="29" column="20" lean-forward="false" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/Desktop/把dist目录下的内容上传即可 3/index.html" />
     <entry file="file://$PROJECT_DIR$/newyear/src/config/cloumn-config.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1211">
@@ -785,7 +725,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -793,14 +732,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
           <caret line="19" column="38" lean-forward="false" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
-          <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/Desktop/把dist目录下的内容上传即可 4/index.html" />
     <entry file="file://$PROJECT_DIR$/newyear/src/App.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16">
-          <caret line="226" column="53" lean-forward="false" selection-start-line="226" selection-start-column="53" selection-end-line="226" selection-end-column="53" />
+        <state relative-caret-position="900">
+          <caret line="481" column="13" lean-forward="false" selection-start-line="481" selection-start-column="6" selection-end-line="481" selection-end-column="13" />
           <folding>
             <element signature="e#4545#4567#0" expanded="true" />
             <element signature="e#5866#7527#0" expanded="false" />
@@ -814,11 +753,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/把dist目录下的内容上传即可 4/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="544" lean-forward="false" selection-start-line="0" selection-start-column="544" selection-end-line="0" selection-end-column="544" />
-          <folding />
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="422">
+            <caret line="30" column="74" lean-forward="false" selection-start-line="30" selection-start-column="74" selection-end-line="30" selection-end-column="74" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
